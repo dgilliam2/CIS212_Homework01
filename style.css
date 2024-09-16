@@ -1,0 +1,25 @@
+body
+{
+    background-color: #A32136;
+    padding: 0;
+    margin: 0;
+}
+
+.outerbox
+{
+    margin: auto;
+    background-color: black;
+    border: black outset 5px;
+}
+
+.innerbox
+{
+    border: black inset 5px;
+}
+
+.MCC
+{
+    text-align: center;
+    color: white;
+    font-family: "Font Awesome 6 Free";
+}
