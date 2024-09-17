@@ -5,16 +5,42 @@ body
     margin: 0;
 }
 
-.outerbox
+.outerheaderbox
 {
-    margin: auto;
     background-color: black;
     border: black outset 5px;
 }
 
-.innerbox
+.innerheaderbox
 {
     border: black inset 5px;
+}
+
+.outerclassbox
+{
+    background-color: black;
+    margin-top: 50px;
+    margin-left: 600px;
+    margin-right: 600px;
+    border: black outset 5px;
+}
+
+.innerclassbox
+{
+    border: black inset 5px;
+}
+
+.classinfo
+{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+
+.classlist
+{
+    font-size: 17px;
+    color: white;
 }
 
 .MCC
